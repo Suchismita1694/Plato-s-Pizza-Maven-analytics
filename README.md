@@ -174,7 +174,8 @@ from portfolioProject..orders o
 - Total revenue made in a year is $817860.05. 
 - July shows the max number of sales. Also the month January, March, May and November shows a higher sale than the rest of the months. We must make sure the availability of our staff to handle higher number of order during these months. 
 - The brie carre pizza is the least selling pizza. The pizzas which are of size XL and XXL are the least sold pizzas so production can be reduced.
-- To increase the number of orders for pizzas which are least sold a speacial discount must be given. 
+- To increase the number of orders for least selling pizzas a speacial discount must be given. 
+- Customers are liking the veg pizzas more. We must improve the taste of our non-veg pizzas.
 
 Tableau - https://public.tableau.com/app/profile/suchismita.dey2593/viz/PlatosPizzadatasetanalysis-Mavenanalytics/Dashboard1
 
