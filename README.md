@@ -169,15 +169,12 @@ from portfolioProject..orders o
 ### $38.30
 
 
-How many orders do we have each day? Are there any peak hours?
-- Average orders per day is 59 and the average order value is $38. Lunch time (12-1pm) and evening time (5-7pm) are the peak hours. Thursday friday and saturday are the most busiest day of the week. 
-Do we have any bestsellers?
-- The classic duluxe pizza. 
-How much money did we make this year? Can we indentify any seasonality in the sales?
+- Average orders per day is 59 and the average order value is $38. Lunch time (12-1pm) and evening time (5-7pm) are the peak hours. Friday along with Thursday and saturday are the most busiest day of the week. We can offer discount to stimulate the off-peak hours. Sundays we can arrange live music to attaract more customers. Also online delivery might show a rise in the number of order in the weekdays. 
+- We have The classic duluxe pizza as the bestseller.
 - Total revenue made in a year is $817860.05. 
-- July shows the max number of sales. Also the month January, March, May and November shows a higher sale than the rest of the months. 
-Are there any pizzas we should take of the menu, or any promotions we could leverage?
-- The brie carre pizza is the least selling pizza. The pizzas which are of size XL and XXL are the least sold pizzas hence it can be taken out of the menu or a free beverage or a dessert can be added to the extra large pizza to check if the sales go up. 
+- July shows the max number of sales. Also the month January, March, May and November shows a higher sale than the rest of the months. We must make sure the availability of our staff to handle higher number of order during these months. 
+- The brie carre pizza is the least selling pizza. The pizzas which are of size XL and XXL are the least sold pizzas so production can be reduced.
+- To increase the number of orders for pizzas which are least sold a speacial discount must be given. 
 
 Tableau - https://public.tableau.com/app/profile/suchismita.dey2593/viz/PlatosPizzadatasetanalysis-Mavenanalytics/Dashboard1
 
