@@ -168,7 +168,7 @@ from portfolioProject..orders o
 ```
 ### $38.30
 
-
+### KEY INSIGHTS
 - Average orders per day is 59 and the average order value is $38. Lunch time (12-1pm) and evening time (5-7pm) are the peak hours. Friday along with Thursday and saturday are the most busiest day of the week. We can offer discount to stimulate the off-peak hours. Sundays we can arrange live music to attaract more customers. Also online delivery might show a rise in the number of order in the weekdays. 
 - We have The classic duluxe pizza as the bestseller.
 - Total revenue made in a year is $817860.05. 
